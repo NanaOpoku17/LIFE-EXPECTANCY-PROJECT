@@ -74,25 +74,25 @@ Using **Power BI**, the analysis examines how economic development, health expen
 - Minimum & Maximum Life Expectancy  
 - Trend analysis measures  
 
-#### Category Grouping (DAX):
-```DAX
-Life Exp Category =
-IF([Life Expectancy] < 65, "Low",
-    IF([Life Expectancy] < 75, "Medium", "High"))
-
 ---
 #### 🛠️ Tools Used
 
-- Power BI
-- Microsoft Excel
-- DAX (Data Analysis Expressions)
-- Data Modelling Techniques
+- **Power BI**
+- **Microsoft Excel**
+- **DAX (Data Analysis Expressions)**
+- **Data Modelling Techniques**
 
----
 
-![WhatsApp Image 2025-12-08 at 17 04 41_29bd16bd](https://github.com/user-attachments/assets/81af07d9-7011-433d-8456-e54fa2452318)
-![WhatsApp Image 2025-12-09 at 07 52 03_b9d3b503](https://github.com/user-attachments/assets/41f6c317-aee7-4c0e-b2ca-de96a94c388c)
-![WhatsApp Image 2025-12-09 at 07 53 19_7c1df4e9](https://github.com/user-attachments/assets/d37b0506-a08c-42f4-b8ef-16d43d9bcee7)
+----
+![WhatsApp Image 2025-12-08 at 17 04 41_47a886a4](https://github.com/user-attachments/assets/785c7965-47fa-4a98-a11f-d6f0b6774602)
+
+![WhatsApp Image 2025-12-09 at 07 52 03_d66ef30b](https://github.com/user-attachments/assets/45143af7-0f26-413f-bd4c-66d9b4d25967)
+
+![WhatsApp Image 2025-12-09 at 07 53 19_f3c00ad8](https://github.com/user-attachments/assets/767082c0-19ef-49eb-9efb-9ea8d2706573)
+
+
+
+
 
 
 
