@@ -28,10 +28,10 @@ Using **Power BI**, the analysis examines how economic development, health expen
 - **Lowest Life Expectancy:** Sierra Leone (41 years)
 
 #### Visuals include:
-- ✓ Health Expenditure Leaders  
-- ✓ Education Spending Leaders  
-- ✓ Undernourishment Hotspots  
-- ✓ Unemployment & Injuries by Country  
+-  Health Expenditure Leaders  
+-  Education Spending Leaders  
+-  Undernourishment Hotspots  
+-  Unemployment & Injuries by Country  
 
 ---
 
